@@ -1,0 +1,24 @@
+# 운영 체제
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Node.js (필요 시)
+node_modules/
+package-lock.json
+yarn.lock
+
+# 빌드/배포
+dist/
+build/
+.cache/
+
+# 환경 변수
+.env
+.env.local
